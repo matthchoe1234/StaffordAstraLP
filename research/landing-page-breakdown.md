@@ -91,3 +91,10 @@ The two JSON manifests in `assets/` preserve the precise website URLs. Original 
 5. Write brand-specific copy from supported facts. Keep third-party claims and endorsements out of the adaptation.
 6. Build locally and check images, typography, mobile overflow, keyboard interactions, and links.
 7. Replace concept-only media/copy and resolve the documented review items before a separate publishing request.
+
+
+## Graymatter homepage component pass
+
+Reviewed the rendered [Graymatter homepage](https://trygraymatter.com/) again through the ChatGPT Chrome extension on September 11, 2026. Adapted its lime icon band into four formulation/format highlights; its numbered disclosure cards and faint grid backdrop into the science section; its rounded Powder Blue panels into the science container; and its product variant controls into quick flavor buttons using the existing local product dialog. The persistent header retains the campaign navigation and shopping anchor. Ingredient card labels now use the homepage’s BrainX, Go blend, and Flow group names.
+
+The reference’s highlighter treatment, pill shapes, and rounded cards carry through in the same brand tokens. Existing Rayshawn imagery and campaign structure remain the basis of this page. The homepage’s rating, discount, outcome timeline, and comparative medical claims were not imported as part of this visual component pass.
