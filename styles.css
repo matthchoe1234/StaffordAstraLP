@@ -17,3 +17,8 @@ dialog{width:min(880px,calc(100% - 32px));max-height:90vh;padding:0;border:1px s
 @media(max-width:850px){.header nav>a:not(.nav-cta){display:none}.header nav{border:0;padding:0}}
 @media(max-width:700px){.card-copy>p{min-height:0}.hero-description{font-size:14px}.hero-secondary{margin-left:0}.announcement{font-size:12px}.photo-label{font-size:12px}}
 @media(min-width:701px) and (max-width:1000px){.ingredient-grid,.product-grid{grid-template-columns:1fr;gap:24px}.ingredient-card{display:grid;grid-template-columns:42% 58%}.ingredient-image{height:100%;aspect-ratio:auto;min-height:300px}.card-copy{padding:30px}.card-copy>p{min-height:0}.product-card{display:grid;grid-template-columns:40% 1fr;column-gap:28px;text-align:left;padding:30px}.product-card>img{grid-column:1;grid-row:1/4;height:260px;margin:0}.product-number{display:none}.product-card h3{grid-column:2;align-self:end;font-size:36px}.product-card .flavor-description{grid-column:2}.product-card .button{grid-column:2;align-self:start;margin-top:0}}
+
+/* Emphasis for key messages and actions. */
+strong{font-weight:700}
+.button,.nav-cta,.text-link,.eyebrow,.science-row h3,.signature strong,summary,.photo-label span:first-child{font-weight:700}
+.hero-description strong{color:var(--text-inverse)}
