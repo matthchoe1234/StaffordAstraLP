@@ -1,0 +1,53 @@
+{
+  "assets": [
+    {
+      "contentType": "image/svg+xml",
+      "id": "52e7fc9c647c91bf",
+      "kind": "image",
+      "name": "Graymatter.svg",
+      "path": "/var/folders/v7/k8cn5n_10xb11z00c8lm45f80000gn/T/browser-use/assets/6d2940f6-e249-46f0-aec6-e83977c484ca/52e7fc9c647c91bf.svg",
+      "url": "https://trygraymatter.com/cdn/shop/files/Graymatter.svg?v=1729054102&width=201"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2a0a261adc23a282",
+      "kind": "image",
+      "name": "top_down_lemon_eab75f35-6216-4653-af7b-b16567bada60.jpg",
+      "path": "/var/folders/v7/k8cn5n_10xb11z00c8lm45f80000gn/T/browser-use/assets/6d2940f6-e249-46f0-aec6-e83977c484ca/2a0a261adc23a282.jpg",
+      "url": "https://trygraymatter.com/cdn/shop/files/top_down_lemon_eab75f35-6216-4653-af7b-b16567bada60.jpg?v=1738595480&width=1500"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c48c5986c6a83688",
+      "kind": "image",
+      "name": "unit-tangerine_0b49e170-9ce5-49ce-9c16-c50c80a61af5.png",
+      "path": "/var/folders/v7/k8cn5n_10xb11z00c8lm45f80000gn/T/browser-use/assets/6d2940f6-e249-46f0-aec6-e83977c484ca/c48c5986c6a83688.png",
+      "url": "https://trygraymatter.com/cdn/shop/files/unit-tangerine_0b49e170-9ce5-49ce-9c16-c50c80a61af5.png?v=1763425176&width=1080"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "62acfb77a6eac1a9",
+      "kind": "image",
+      "name": "Rayshawn_Headshot.webp",
+      "path": "/var/folders/v7/k8cn5n_10xb11z00c8lm45f80000gn/T/browser-use/assets/6d2940f6-e249-46f0-aec6-e83977c484ca/62acfb77a6eac1a9.webp",
+      "url": "https://trygraymatter.com/cdn/shop/files/Rayshawn_Headshot.webp?v=1738619659&width=960"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "dd2e7a42d42788cf",
+      "kind": "font",
+      "name": "ABCMonumentGroteskMono-Regular_db572fbd-b4be-4c22-a5b7-cb173eb6eb04.woff2",
+      "path": "/var/folders/v7/k8cn5n_10xb11z00c8lm45f80000gn/T/browser-use/assets/6d2940f6-e249-46f0-aec6-e83977c484ca/dd2e7a42d42788cf.woff2",
+      "url": "https://trygraymatter.com/cdn/shop/files/ABCMonumentGroteskMono-Regular_db572fbd-b4be-4c22-a5b7-cb173eb6eb04.woff2?v=1765221675"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "086f59d73cb074f2",
+      "kind": "font",
+      "name": "Exposure40-Regular.woff2",
+      "path": "/var/folders/v7/k8cn5n_10xb11z00c8lm45f80000gn/T/browser-use/assets/6d2940f6-e249-46f0-aec6-e83977c484ca/086f59d73cb074f2.woff2",
+      "url": "https://trygraymatter.com/cdn/shop/files/Exposure40-Regular.woff2?v=1726721838"
+    }
+  ],
+  "failures": []
+}

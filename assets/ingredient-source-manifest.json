@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "contentType": "image/webp",
+      "id": "5ec24b715b32d924",
+      "kind": "image",
+      "name": "SL_PDP_Sachets.png",
+      "path": "/var/folders/v7/k8cn5n_10xb11z00c8lm45f80000gn/T/browser-use/assets/0c1d09a1-c217-4b81-b46b-0c4caf20d9f1/5ec24b715b32d924.png",
+      "url": "https://trygraymatter.com/cdn/shop/files/SL_PDP_Sachets.png?v=1771245472&width=1120"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2fec0669c7ea097b",
+      "kind": "image",
+      "name": "image_1.png",
+      "path": "/var/folders/v7/k8cn5n_10xb11z00c8lm45f80000gn/T/browser-use/assets/0c1d09a1-c217-4b81-b46b-0c4caf20d9f1/2fec0669c7ea097b.png",
+      "url": "https://trygraymatter.com/cdn/shop/files/image_1.png?v=1738632519&width=1500"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "fcb4671ce8a770df",
+      "kind": "image",
+      "name": "image_2.png",
+      "path": "/var/folders/v7/k8cn5n_10xb11z00c8lm45f80000gn/T/browser-use/assets/0c1d09a1-c217-4b81-b46b-0c4caf20d9f1/fcb4671ce8a770df.png",
+      "url": "https://trygraymatter.com/cdn/shop/files/image_2.png?v=1738631335&width=1500"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "03ac19cdf4cab02f",
+      "kind": "image",
+      "name": "image_1_a8ae3cf1-e7f6-46d2-978d-e02520913638.png",
+      "path": "/var/folders/v7/k8cn5n_10xb11z00c8lm45f80000gn/T/browser-use/assets/0c1d09a1-c217-4b81-b46b-0c4caf20d9f1/03ac19cdf4cab02f.png",
+      "url": "https://trygraymatter.com/cdn/shop/files/image_1_a8ae3cf1-e7f6-46d2-978d-e02520913638.png?v=1738631175&width=1500"
+    }
+  ],
+  "failures": []
+}
